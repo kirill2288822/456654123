@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+
+header a{
+    text-decoration: none;
+    font-size: 20px;
+    border: 3px solid #000000;
+    margin: 10px;
+    color: black;
+}
+header {
+    margin: 1px 1px 1px 1px;
+    padding: 15px;
+    
+}
+
+
+.special_link {
+    background-color: #CC1B9A;
+    border-radius: 1px;
+}
+
+.ggvp {
+     background-color: #CC1B9A;
+     border-radius: 5px;
+     padding: widrh: 50px;
+}
+     
+font {
+    background-color: ;
+    padding: 10x;
+}
+
+footer p {
+    font-size: 20px;
+    background-color: white;
+}
+
+header {
+ background: #ffffff
+}
+
+
+
+footer {
+    background: #FF0000;
+    padding: 5px;
+}
+
+main {
+    background-color: #0500FF;
+}
+
+pading {
+    width: 400px;
+    height: 90px;
+    left: 500px;
+    top: 900px;
+}
